@@ -1,0 +1,52 @@
+.sanpham{
+    margin: 0 auto;
+    width: 1000px;
+    height: 1000px;
+} 
+.sanpham_title{
+    height: 200px;
+    width: 100%;
+    background: #99ffff;
+}
+.sanpham_main{
+    height: 600px;
+    width: 100%; 
+    background: #cccc00;
+}  
+.sanpham_left{
+    width: 50%;
+    height: 600px;
+    background: aqua;
+    float: left; 
+} 
+.sanpham_left_img{
+    height: 400px;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border: 1px solid black;
+}
+.sanpham_right{
+    width: 50%;
+    height: 600px;
+    background:  #ccccff;
+    float: right;
+    
+} 
+.sanpham_right_sp{
+    padding-left: 30px;
+    //margin-top: 20px;
+    font-size: 20px;
+    
+}
+.sanpham_foot{
+    height: 200px;
+    width: 100%;
+    background: #cccc00;
+    
+}
+
+
+
+
+

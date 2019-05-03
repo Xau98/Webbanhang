@@ -1,0 +1,54 @@
+.account{
+    margin: 0 auto;
+    width: 1000px;
+    height: 1000px;
+}
+.account_title{
+    height: 200px;
+    width: 100%;
+}
+.account_main{
+    height: 700px;
+    width: 100%;
+    
+}
+.account_left{
+    width: 25%;
+    height: 700px;
+    background: aqua;
+    float: left; 
+} 
+.account_img{
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-top: 10px;
+} 
+.menu{
+    border: 1px solid blue;
+    text-align: center;
+      padding-top: 5px; 
+}
+.chucnang{
+    background: #99ff33; 
+    height: 40px;
+    width: 230px; 
+    font-size: 20px;
+    font-weight: bold; 
+} 
+
+.account_right{
+    width: 75%;
+    height: 700px;
+    background:  #ccccff;
+    float: right;
+}
+.account_foot{
+    height: 200px;
+    width: 100%;
+    background: #cccc00;
+    
+}
+
+
